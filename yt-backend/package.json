@@ -1,0 +1,14 @@
+{
+  "name": "yt-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Abhay Panchal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
